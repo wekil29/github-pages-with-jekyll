@@ -1,4 +1,4 @@
 ---
-"My Portfolio"
-2021-09-01
+title: "Welcome to my blog"
+date: 2021-09-01
 ---
